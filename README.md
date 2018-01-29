@@ -1,9 +1,9 @@
-# Kaart Group Data Improvement Projects in the Philippines
+## Kaart Group Data Improvement Projects in the Philippines
 >make awesome PH data with #kaart
 
 ## Information about:
 
-* Data Improvement [Projects](https://github.com/ngnuity/kaartph/issues) in the Philippines being worked on by Kaart collaborators, or the  [Data Team](https://wiki.openstreetmap.org/wiki/Kaart#Kaart_Data_Team).   
+* Data Improvement [Projects](https://github.com/mapamore/kaart-ph/projects) in the Philippines being worked on by Kaart collaborators, or the  [Data Team](https://wiki.openstreetmap.org/wiki/Kaart#Kaart_Data_Team).   
 
 ##  Data Team Guidelines
 In addition to the rules that apply to everyone in the community, here are the guidelines the Kaart team reiterates and adds for themselves:
