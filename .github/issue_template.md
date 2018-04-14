@@ -31,6 +31,5 @@ In addition, the contributors will review their work in accordance with the task
 - Street-level imagery (Mapillary, OpenStreetCam, Pic4Carto)
 - GIS imagery analysis by Kaart
 
-
 ##### Contributors
 The project is open to OpenStreetMap contributors of any experience level.
