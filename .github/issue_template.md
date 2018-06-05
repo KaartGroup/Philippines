@@ -1,35 +1,31 @@
 ## Description
-[//]: # (Enter a concise description of the issue )
-
-## Screenshots
-[//]: # (Enter a concise description of the issue )
-
-The challenge is created to help contributors coordinate their efforts, and avoid duplication of work.
-
-Improvements that are intended to enhance the data include the following:
-* Improving waterway classification consistency according to [OSM](https://wiki.openstreetmap.org/wiki/Tag:waterway=ditch) guidelines
-* Digitize missing waterways
-* Improve geometry
-
-### Covering the following areas
-[//]: # (Add the area here)
+This task provides information and tools to improve map data in Pangasinan. See the [README.md](https://github.com/KaartGroup/Philippines/README.md) for more information regarding the project.
 
 ## Tasking Manager
-- [//]: # (Like to the tasking manager page)
+- [Missing Roads - XYZ - Missing Roads](https://tasks.hotosm.org/project/4026/)
+[//]: # (Enter a concise description of the issue )
+
+### Areas of Focus
+* Adding missing roads
+* Improving road attributes (names, lanes, restrictions, etc.)
+* Correcting road connectivity issues
+* Improving road classification consistency according to [OSM](https://wiki.openstreetmap.org/wiki/Key:highway) guidelines
+* Correcting road alignment issues
+* Attempt to resolve open notes
+* Other one-off fixes
 
 ### Guidelines
-- The contributors will follow [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Highways), regional, and [national](https://wiki.openstreetmap.org/wiki/Philippines/) practices, along with Kaart Data Team [Guidelines](https://wiki.openstreetmap.org/wiki/Kaart#Data_Team_Guidelines) guidelines, as appropriate.
+Along with the Kaart [Data Team Guidelines](https://github.com/KaartGroup/Philippines/blob/master/KAART.md#data-team-guidelines
+ "Guidelines"), contributors are expected to adhere to the following standards and practices:
 
-#### Validation and Error Detection
-The contributors will visually check for errors together with using [JOSM validation warnings](http://wiki.openstreetmap.org/wiki/JOSM/Validator) prior to committing the changeset.
+ - [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Highways "OSM")
+ - [Philippines](http://wiki.openstreetmap.org/wiki/Philippines/Mapping_conventions "PH")
 
-In addition, the contributors will review their work in accordance with the task guidelines including the [OSM Wiki](http://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data) and [LearnOSM](http://learnosm.org/en/coordination/review/) validation conventions.
+### Methods & Tools
+#### Error Detection
+The [OSM Wiki](http://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data) and [LearnOSM](http://learnosm.org/en/coordination/review/) validation standards as well as the task guidelines will need to be used as a guide to review work for any errors. 
+#### Validation
+Errors and warnings will be reviewed by the contributor using the [JOSM validation tool](http://wiki.openstreetmap.org/wiki/JOSM/Validator). The contributor will run this validation and fix any errors or warnings prior to any changes being uploaded.
 
-##### Data Sources
-- Public imagery (Bing, MapBox, Digital Globe, ESRI World View
-- Public traces (OSM GPS traces, Strava)
-- Street-level imagery (Mapillary, OpenStreetCam, Pic4Carto)
-- GIS imagery analysis by Kaart
-
-##### Contributors
+### Contributors
 The project is open to OpenStreetMap contributors of any experience level.
