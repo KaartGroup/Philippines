@@ -1,9 +1,9 @@
 ## Description
-This task provides information and tools to improve map data in Pangasinan. See the [README.md](https://github.com/KaartGroup/Philippines/README.md) for more information regarding the project.
+[//]: # (Enter a concise description of the issue )
+This task provides information and tools to improve map data in XYZ. See the [README.md](https://github.com/KaartGroup/Philippines/README.md) for more information regarding the project.
 
 ## Tasking Manager
-- [Missing Roads - XYZ - Missing Roads](https://tasks.hotosm.org/project/4026/)
-[//]: # (Enter a concise description of the issue )
+- [XYZ - Missing Roads](https://tasks.hotosm.org/project/XYZ/)
 
 ### Areas of Focus
 * Adding missing roads
